@@ -1,0 +1,11 @@
+Press keys 1,2,3 to switch view between:
+1.Static camera (use mouse to adjust it)
+2.Following-object camera
+3.Looking-at-object camera
+
+Press keys S and L, to toggle:
+S. Shading model (Gouraud/Phong)
+L. Lighting model (Phong/Blinn-Phong)
+
+Press Space to toggle between day and night.
+
